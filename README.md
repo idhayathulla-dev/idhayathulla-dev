@@ -1,12 +1,12 @@
-# Hi there, I'm Idhayathulla A! 👋
+# Hi there, I'm Idhayathulla A! 
 
-## 🚀 About Me
+## About Me
 
 🎓 Computer Science Engineering Student at Rajalakshmi Institute of Technology (2024–2028)
 
 💻 Aspiring Software Engineer passionate about AI, Full-Stack Development, and building software solutions for real-world problems.
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Data Structures & Algorithms
 - Full-Stack Development
@@ -14,7 +14,7 @@
 - Quantum Computing
 - Backend Development with FastAPI
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,7 +39,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-## 📫 Connect With Me
+## Connect With Me
 
 📧 Email: idhayathulla.official@gmail.com
 
