@@ -38,9 +38,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-## Connect With Me
-
-📧 Email: idhayathulla.official@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/idhayathulla-a-f321
