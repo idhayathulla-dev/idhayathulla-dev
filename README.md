@@ -42,6 +42,6 @@
 
 ## Open Source Contributions
 
-[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+[![Contributor](https://img.shields.io/badge/KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
 [![k0rdent](https://img.shields.io/badge/k0rdent-00ffcc?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/k0rdent)
-[![ModelDock](https://img.shields.io/badge/ModelDock-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ModelDock)
+[![ModelDock](https://img.shields.io/badge/ModelDock-blue?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/ModelDock](https://github.com/aawhan0/ModelDock))
